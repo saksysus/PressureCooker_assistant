@@ -11,7 +11,8 @@ A pressure cooker is part of everyday life in millions of households. Yet, monit
 Using a digital MEMS microphone and an RP2040-based microcontroller, the system captures and analyses pressure cooker sound patterns to identify meaningful acoustic events, recognize whistle patterns and provide timely alerts to users.
 
 
-<img width="300" height="269" alt="image" src="https://github.com/user-attachments/assets/c8561e30-cd06-4234-a5f2-54ed08654933" /> <img width="427" height="269" alt="image" src="https://github.com/user-attachments/assets/6a0ceb84-3dba-42f5-8612-5d8e8c54c0a8" />
+<img width="300" height="269" alt="image" src="https://github.com/user-attachments/assets/c8561e30-cd06-4234-a5f2-54ed08654933" />  <img width="269" height="269" alt="image" src="https://github.com/user-attachments/assets/c3e333eb-29e2-4ca3-89db-47d5a71fbd95" />
+
 
 This is more than a whistle detector. It is an attempt to bring affordable embedded intelligence to an everyday kitchen appliance—with the potential to support better fuel usage, convenience and more responsible energy consumption.
 
