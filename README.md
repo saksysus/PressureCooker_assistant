@@ -30,7 +30,7 @@ This creates a few everyday challenges:
 - **Unnecessary heating:** Delayed intervention may lead to avoidable fuel consumption.
 - **Limited intelligence:** Conventional cookers do not provide electronic sound-based alerts or monitoring.
 
-## 🚀 Our Solution
+## 🚀 My Solution
 
 Pressure Cooker Assistant is an experimental embedded system designed to monitor pressure cooker acoustics and assist users through sound-based event detection.
 
