@@ -4,6 +4,7 @@
 **What if your pressure cooker could tell you when it needs your attention?**
 
 A pressure cooker is part of everyday life in millions of households. Yet, monitoring its whistles still depends entirely on human attention. Missed whistles, delayed intervention and unnecessary heating can mean wasted time and potentially wasted LPG.
+
 <img width="402" height="202" alt="image" src="https://github.com/user-attachments/assets/d5111f90-5cf7-4d8c-9d56-76bd66c7d4f1" />
 
 **Pressure Cooker Assistant** aims to make traditional pressure cookers smarter through intelligent sound monitoring.
